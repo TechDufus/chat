@@ -1,4 +1,4 @@
-module github.com/stillmatic/chat
+module github.com/techdufus/chat
 
 go 1.19
 
